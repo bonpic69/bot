@@ -4,6 +4,14 @@
 
 The Binance Futures Trading Bot is a sophisticated Python-based application designed to automate trading on the Binance Futures platform. By integrating with the Binance API and Telegram for real-time signal processing, the bot executes trades based on predefined trading signals, manages positions, and implements risk management strategies such as stop-loss and take-profit orders. The bot is highly configurable, allowing users to customize leverage, position size, and other trading parameters through a configuration file.
 
+## Trade Demo Video
+
+<div style="display: flex; justify-content: center;">
+  <a href="binance_bot_trades_demo.mp4">
+    <img src="trade_thumbnail.png" alt="Binance Futures Bot Trade Demo" width="600">
+  </a>
+</div>
+
 ## Features
 
 - **Automated Trading**: Executes trades based on signals received via Telegram, supporting both long and short positions.
