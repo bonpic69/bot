@@ -157,7 +157,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Disclaimer
 
 Trading cryptocurrencies involves significant risk and can result in the loss of your capital. This bot is provided as-is, and users are responsible for configuring it correctly and monitoring its operation. Always test the bot in a demo environment before using it with real funds.
-
-## Contact
-
-For questions or support, please open an issue on the GitHub repository or contact the maintainer at [your.email@example.com](mailto:your.email@example.com).
