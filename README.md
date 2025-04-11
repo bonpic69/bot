@@ -6,9 +6,13 @@ The Binance Futures Trading Bot is a sophisticated Python-based application desi
 
 ## Trade Demo Video
 
+Click the thumbnail below to open the demo video in a new tab: 
+
+(if you are unable to view download it: [binance_bot_trades_demo.mp4](https://github.com/bonsai89/binance_trading_bot_futures/blob/main/binance_bot_trades_demo.mp4))
+
 <div style="display: flex; justify-content: center;">
-  <a href="binance_bot_trades_demo.mp4">
-    <img src="trade_thumbnail.png" alt="Binance Futures Bot Trade Demo" width="600">
+  <a href="binance_bot_trades_demo.mp4" target="_blank">
+    <img src="trade_thumbnail.png" alt="Thumbnail for Binance Bot Trade Demo Video" width="600">
   </a>
 </div>
 
